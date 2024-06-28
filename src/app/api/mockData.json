@@ -1,0 +1,318 @@
+{
+  "newsArticles": [
+    {
+      "id": 1,
+      "title": "Breaking News: Market Crash",
+      "content": "The stock market experienced a significant crash today..."
+    },
+    {
+      "id": 2,
+      "title": "Weather Update: Storm Approaching",
+      "content": "A major storm is approaching the eastern seaboard..."
+    },
+    {
+      "id": 3,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "The local team won the championship game last night..."
+    },
+    {
+      "id": 4,
+      "title": "Travel: Top Destinations for 2024",
+      "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 5,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 6,
+      "title": "Weather Update: Storm Approaching",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 7,
+      "title": "Travel: Top Destinations for 2024",
+      "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+      "author": "John Smith",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 8,
+      "title": "Politics: Election Results Announced",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Jessica White",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 9,
+      "title": "Tech: New Smartphone Released",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 10,
+      "title": "Business: Company Reports Record Profits",
+      "content": "The stock market experienced a significant crash today, with major indices dropping by over 5% in a single trading session. Experts attribute the decline to a combination of economic factors and investor anxiety.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 11,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 12,
+      "title": "Breaking News: Market Crash",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 13,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "This is a dynamically generated news article.",
+      "author": "Random Author",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 14,
+      "title": "Politics: Election Results Announced",
+      "content": "This is a dynamically generated news article.",
+      "author": "Random Author",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 15,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "This is a dynamically generated news article.",
+      "author": "Random Author",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 16,
+      "title": "Science: New Discovery in Space",
+      "content": "This is a dynamically generated news article.",
+      "author": "Random Author",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 17,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "This is a dynamically generated news article.",
+      "author": "Random Author",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 18,
+      "title": "Science: New Discovery in Space",
+      "content": "This is a dynamically generated news article.",
+      "author": "Random Author",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 19,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "This is a dynamically generated news article.",
+      "author": "Random Author",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 20,
+      "title": "Tech: New Smartphone Released",
+      "content": "This is a dynamically generated news article.",
+      "author": "Random Author",
+      "date": "2024-06-28"
+    }
+  ],
+  "categoryArticles": {
+    "technology": [
+      {
+        "id": 4,
+        "title": "New Smartphone Released",
+        "content": "The latest smartphone model has been released with new features..."
+      },
+      {
+        "id": 5,
+        "title": "AI Advances in Healthcare",
+        "content": "AI technology is making significant advances in the healthcare industry..."
+      },
+      {
+        "id": 3,
+        "title": "Weather Update: Storm Approaching",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 4,
+        "title": "Travel: Top Destinations for 2024",
+        "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+        "author": "John Smith",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 5,
+        "title": "Politics: Election Results Announced",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Jessica White",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 6,
+        "title": "Business: Company Reports Record Profits",
+        "content": "The stock market experienced a significant crash today, with major indices dropping by over 5% in a single trading session. Experts attribute the decline to a combination of economic factors and investor anxiety.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 7,
+        "title": "Breaking News: Market Crash",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 8,
+        "title": "Sports: Local Team Wins Championship",
+        "content": "This is a dynamically generated news article.",
+        "author": "Random Author",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 9,
+        "title": "Science: New Discovery in Space",
+        "content": "This is a dynamically generated news article.",
+        "author": "Random Author",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 10,
+        "title": "Tech: New Smartphone Released",
+        "content": "This is a dynamically generated news article.",
+        "author": "Random Author",
+        "date": "2024-06-28"
+      }
+    ],
+    "sports": [
+      {
+        "id": 6,
+        "title": "Olympics Update",
+        "content": "The Olympics are in full swing with many exciting events..."
+      },
+      {
+        "id": 7,
+        "title": "Soccer World Cup Highlights",
+        "content": "Highlights from the recent soccer world cup games..."
+      },
+      {
+        "id": 3,
+        "title": "Travel: Top Destinations for 2024",
+        "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 4,
+        "title": "Sports: Local Team Wins Championship",
+        "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 5,
+        "title": "Tech: New Smartphone Released",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 6,
+        "title": "Sports: Local Team Wins Championship",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 7,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "This is a dynamically generated news article.",
+        "author": "Random Author",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 8,
+        "title": "Politics: Election Results Announced",
+        "content": "This is a dynamically generated news article.",
+        "author": "Random Author",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 9,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "This is a dynamically generated news article.",
+        "author": "Random Author",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 10,
+        "title": "Science: New Discovery in Space",
+        "content": "This is a dynamically generated news article.",
+        "author": "Random Author",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 11,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "This is a dynamically generated news article.",
+        "author": "Random Author",
+        "date": "2024-06-28"
+      }
+    ]
+  },
+  "userActivity": [
+    {
+      "description": "Commented on \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Liked \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Shared \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Reviewed \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Reviewed \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Reviewed \"Business: Company Reports Record Profits\""
+    },
+    {
+      "description": "Liked \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Commented on \"Business: Company Reports Record Profits\""
+    },
+    {
+      "description": "Commented on \"Politics: Election Results Announced\""
+    },
+    {
+      "description": "Saved \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Commented on \"Weather Update: Storm Approaching\""
+    }
+  ]
+}

@@ -1,10 +1,11 @@
+"use client";
 import { useEffect, useState } from "react";
 
 export default function DynamicUserActivity() {
   const [activity, setActivity] = useState(null);
 
   useEffect(() => {
-    fetch("/api/user/activity")
+    fetch("/api/activity")
       .then((res) => res.json())
       .then(setActivity);
   }, []);
