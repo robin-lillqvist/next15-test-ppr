@@ -133,6 +133,580 @@
       "content": "This is a dynamically generated news article.",
       "author": "Random Author",
       "date": "2024-06-28"
+    },
+    {
+      "id": 21,
+      "title": "Weather Update: Storm Approaching",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "James Anderson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 22,
+      "title": "Politics: Election Results Announced",
+      "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+      "author": "John Smith",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 23,
+      "title": "Breaking News: Market Crash",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 24,
+      "title": "Tech: New Smartphone Released",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Jessica White",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 25,
+      "title": "Travel: Top Destinations for 2024",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 26,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 27,
+      "title": "Science: New Discovery in Space",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 28,
+      "title": "Business: Company Reports Record Profits",
+      "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 29,
+      "title": "Tech: New Smartphone Released",
+      "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 30,
+      "title": "Science: New Discovery in Space",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 31,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 32,
+      "title": "Travel: Top Destinations for 2024",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 33,
+      "title": "Politics: Election Results Announced",
+      "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 34,
+      "title": "Science: New Discovery in Space",
+      "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 35,
+      "title": "Travel: Top Destinations for 2024",
+      "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 36,
+      "title": "Travel: Top Destinations for 2024",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 37,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 38,
+      "title": "Breaking News: Market Crash",
+      "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 39,
+      "title": "Business: Company Reports Record Profits",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 40,
+      "title": "Weather Update: Storm Approaching",
+      "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+      "author": "Robert Brown",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 41,
+      "title": "Breaking News: Market Crash",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 42,
+      "title": "Tech: New Smartphone Released",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "James Anderson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 43,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "Jessica White",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 44,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 45,
+      "title": "Travel: Top Destinations for 2024",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 46,
+      "title": "Business: Company Reports Record Profits",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 47,
+      "title": "Tech: New Smartphone Released",
+      "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+      "author": "John Smith",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 48,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Robert Brown",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 49,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "John Smith",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 50,
+      "title": "Weather Update: Storm Approaching",
+      "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+      "author": "James Anderson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 51,
+      "title": "Business: Company Reports Record Profits",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 52,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 53,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Jessica White",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 54,
+      "title": "Business: Company Reports Record Profits",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "John Smith",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 55,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 56,
+      "title": "Breaking News: Market Crash",
+      "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+      "author": "Jessica White",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 57,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 58,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 59,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+      "author": "Robert Brown",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 60,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+      "author": "Jane Doe",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 61,
+      "title": "Business: Company Reports Record Profits",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Jane Doe",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 62,
+      "title": "Weather Update: Storm Approaching",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 63,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 64,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "Robert Brown",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 65,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "The stock market experienced a significant crash today, with major indices dropping by over 5% in a single trading session. Experts attribute the decline to a combination of economic factors and investor anxiety.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 66,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 67,
+      "title": "Politics: Election Results Announced",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 68,
+      "title": "Weather Update: Storm Approaching",
+      "content": "The stock market experienced a significant crash today, with major indices dropping by over 5% in a single trading session. Experts attribute the decline to a combination of economic factors and investor anxiety.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 69,
+      "title": "Politics: Election Results Announced",
+      "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+      "author": "Jessica White",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 70,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "The stock market experienced a significant crash today, with major indices dropping by over 5% in a single trading session. Experts attribute the decline to a combination of economic factors and investor anxiety.",
+      "author": "Robert Brown",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 71,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 72,
+      "title": "Science: New Discovery in Space",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 73,
+      "title": "Tech: New Smartphone Released",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 74,
+      "title": "Science: New Discovery in Space",
+      "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 75,
+      "title": "Weather Update: Storm Approaching",
+      "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 76,
+      "title": "Tech: New Smartphone Released",
+      "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+      "author": "James Anderson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 77,
+      "title": "Sports: Local Team Wins Championship",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 78,
+      "title": "Science: New Discovery in Space",
+      "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+      "author": "Jane Doe",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 79,
+      "title": "Business: Company Reports Record Profits",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 80,
+      "title": "Breaking News: Market Crash",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 81,
+      "title": "Science: New Discovery in Space",
+      "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+      "author": "Jessica White",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 82,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 83,
+      "title": "Tech: New Smartphone Released",
+      "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+      "author": "James Anderson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 84,
+      "title": "Science: New Discovery in Space",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 85,
+      "title": "Politics: Election Results Announced",
+      "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 86,
+      "title": "Weather Update: Storm Approaching",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 87,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Jane Doe",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 88,
+      "title": "Weather Update: Storm Approaching",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 89,
+      "title": "Science: New Discovery in Space",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 90,
+      "title": "Politics: Election Results Announced",
+      "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 91,
+      "title": "Politics: Election Results Announced",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "Laura Martinez",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 92,
+      "title": "Breaking News: Market Crash",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Jane Doe",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 93,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 94,
+      "title": "Breaking News: Market Crash",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Robert Brown",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 95,
+      "title": "Breaking News: Market Crash",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "David Lee",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 96,
+      "title": "Politics: Election Results Announced",
+      "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+      "author": "John Smith",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 97,
+      "title": "Weather Update: Storm Approaching",
+      "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+      "author": "Sarah Johnson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 98,
+      "title": "Science: New Discovery in Space",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "Michael Wilson",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 99,
+      "title": "Politics: Election Results Announced",
+      "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+      "author": "John Smith",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 100,
+      "title": "Health: AI Advances in Healthcare",
+      "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 101,
+      "title": "Breaking News: Market Crash",
+      "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
+    },
+    {
+      "id": 102,
+      "title": "Entertainment: Movie Breaks Box Office Records",
+      "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+      "author": "Emily Davis",
+      "date": "2024-06-28"
     }
   ],
   "categoryArticles": {
@@ -201,6 +775,286 @@
         "title": "Tech: New Smartphone Released",
         "content": "This is a dynamically generated news article.",
         "author": "Random Author",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 11,
+        "title": "Politics: Election Results Announced",
+        "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+        "author": "John Smith",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 12,
+        "title": "Tech: New Smartphone Released",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Jessica White",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 13,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 14,
+        "title": "Science: New Discovery in Space",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 15,
+        "title": "Business: Company Reports Record Profits",
+        "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 16,
+        "title": "Science: New Discovery in Space",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 17,
+        "title": "Sports: Local Team Wins Championship",
+        "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 18,
+        "title": "Science: New Discovery in Space",
+        "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 19,
+        "title": "Travel: Top Destinations for 2024",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 20,
+        "title": "Breaking News: Market Crash",
+        "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 21,
+        "title": "Weather Update: Storm Approaching",
+        "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+        "author": "Robert Brown",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 22,
+        "title": "Tech: New Smartphone Released",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "James Anderson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 23,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 24,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Robert Brown",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 25,
+        "title": "Weather Update: Storm Approaching",
+        "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+        "author": "James Anderson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 26,
+        "title": "Business: Company Reports Record Profits",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 27,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 28,
+        "title": "Breaking News: Market Crash",
+        "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+        "author": "Jessica White",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 29,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 30,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+        "author": "Robert Brown",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 31,
+        "title": "Politics: Election Results Announced",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 32,
+        "title": "Weather Update: Storm Approaching",
+        "content": "The stock market experienced a significant crash today, with major indices dropping by over 5% in a single trading session. Experts attribute the decline to a combination of economic factors and investor anxiety.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 33,
+        "title": "Politics: Election Results Announced",
+        "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+        "author": "Jessica White",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 34,
+        "title": "Science: New Discovery in Space",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 35,
+        "title": "Tech: New Smartphone Released",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 36,
+        "title": "Weather Update: Storm Approaching",
+        "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 37,
+        "title": "Sports: Local Team Wins Championship",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 38,
+        "title": "Science: New Discovery in Space",
+        "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+        "author": "Jane Doe",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 39,
+        "title": "Science: New Discovery in Space",
+        "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+        "author": "Jessica White",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 40,
+        "title": "Tech: New Smartphone Released",
+        "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+        "author": "James Anderson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 41,
+        "title": "Science: New Discovery in Space",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 42,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Jane Doe",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 43,
+        "title": "Science: New Discovery in Space",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 44,
+        "title": "Breaking News: Market Crash",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Jane Doe",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 45,
+        "title": "Breaking News: Market Crash",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Robert Brown",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 46,
+        "title": "Breaking News: Market Crash",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 47,
+        "title": "Politics: Election Results Announced",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "John Smith",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 48,
+        "title": "Science: New Discovery in Space",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 49,
+        "title": "Politics: Election Results Announced",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "John Smith",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 50,
+        "title": "Breaking News: Market Crash",
+        "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+        "author": "Emily Davis",
         "date": "2024-06-28"
       }
     ],
@@ -277,6 +1131,300 @@
         "content": "This is a dynamically generated news article.",
         "author": "Random Author",
         "date": "2024-06-28"
+      },
+      {
+        "id": 12,
+        "title": "Weather Update: Storm Approaching",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "James Anderson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 13,
+        "title": "Breaking News: Market Crash",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 14,
+        "title": "Travel: Top Destinations for 2024",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 15,
+        "title": "Tech: New Smartphone Released",
+        "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 16,
+        "title": "Travel: Top Destinations for 2024",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 17,
+        "title": "Politics: Election Results Announced",
+        "content": "A major company has reported record profits for the last quarter, with revenue exceeding expectations. The company attributes its success to strong demand for its products and services.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 18,
+        "title": "Travel: Top Destinations for 2024",
+        "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 19,
+        "title": "Sports: Local Team Wins Championship",
+        "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 20,
+        "title": "Business: Company Reports Record Profits",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 21,
+        "title": "Breaking News: Market Crash",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 22,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "Jessica White",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 23,
+        "title": "Travel: Top Destinations for 2024",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 24,
+        "title": "Business: Company Reports Record Profits",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 25,
+        "title": "Tech: New Smartphone Released",
+        "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+        "author": "John Smith",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 26,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "John Smith",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 27,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "Travel experts have released their list of top destinations for 2024, highlighting popular locations and hidden gems around the world. Travelers are encouraged to explore new places and cultures.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 28,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Jessica White",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 29,
+        "title": "Business: Company Reports Record Profits",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "John Smith",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 30,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 31,
+        "title": "Sports: Local Team Wins Championship",
+        "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+        "author": "Jane Doe",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 32,
+        "title": "Business: Company Reports Record Profits",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Jane Doe",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 33,
+        "title": "Weather Update: Storm Approaching",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 34,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 35,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "Robert Brown",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 36,
+        "title": "Sports: Local Team Wins Championship",
+        "content": "The stock market experienced a significant crash today, with major indices dropping by over 5% in a single trading session. Experts attribute the decline to a combination of economic factors and investor anxiety.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 37,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 38,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "The stock market experienced a significant crash today, with major indices dropping by over 5% in a single trading session. Experts attribute the decline to a combination of economic factors and investor anxiety.",
+        "author": "Robert Brown",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 39,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "AI technology is making significant advances in the healthcare industry, with new applications being developed for diagnosis, treatment, and patient care. Experts believe AI could revolutionize the way healthcare is delivered.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 40,
+        "title": "Science: New Discovery in Space",
+        "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 41,
+        "title": "Tech: New Smartphone Released",
+        "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+        "author": "James Anderson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 42,
+        "title": "Business: Company Reports Record Profits",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 43,
+        "title": "Breaking News: Market Crash",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 44,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 45,
+        "title": "Politics: Election Results Announced",
+        "content": "The latest smartphone model has been released with new features including an improved camera, longer battery life, and faster processing speeds. Tech enthusiasts are eager to get their hands on the new device.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 46,
+        "title": "Weather Update: Storm Approaching",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 47,
+        "title": "Weather Update: Storm Approaching",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "Michael Wilson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 48,
+        "title": "Politics: Election Results Announced",
+        "content": "A major storm is approaching the eastern seaboard, bringing with it heavy rains and strong winds. Authorities are advising residents to take precautions and stay indoors.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 49,
+        "title": "Politics: Election Results Announced",
+        "content": "The results of the recent election have been announced, with the incumbent party securing a majority of the seats. The opposition has conceded defeat and congratulated the winners.",
+        "author": "Laura Martinez",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 50,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+        "author": "David Lee",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 51,
+        "title": "Weather Update: Storm Approaching",
+        "content": "Scientists have made a new discovery in space, identifying a previously unknown galaxy. The discovery could provide new insights into the origins of the universe.",
+        "author": "Sarah Johnson",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 52,
+        "title": "Health: AI Advances in Healthcare",
+        "content": "The latest blockbuster movie has broken box office records, earning over $100 million in its opening weekend. Critics are praising the film for its compelling storyline and stunning visuals.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
+      },
+      {
+        "id": 53,
+        "title": "Entertainment: Movie Breaks Box Office Records",
+        "content": "The local team won the championship game last night in a thrilling match that kept fans on the edge of their seats. The final score was 3-2, with the winning goal scored in the last minute.",
+        "author": "Emily Davis",
+        "date": "2024-06-28"
       }
     ]
   },
@@ -313,6 +1461,252 @@
     },
     {
       "description": "Commented on \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Reviewed \"Politics: Election Results Announced\""
+    },
+    {
+      "description": "Reviewed \"Politics: Election Results Announced\""
+    },
+    {
+      "description": "Saved \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Shared \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Liked \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Saved \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Reviewed \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Commented on \"Politics: Election Results Announced\""
+    },
+    {
+      "description": "Liked \"Tech: New Smartphone Released\""
+    },
+    {
+      "description": "Shared \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Saved \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Commented on \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Reviewed \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Shared \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Saved \"Science: New Discovery in Space\""
+    },
+    {
+      "description": "Commented on \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Shared \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Liked \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Shared \"Science: New Discovery in Space\""
+    },
+    {
+      "description": "Liked \"Science: New Discovery in Space\""
+    },
+    {
+      "description": "Commented on \"Tech: New Smartphone Released\""
+    },
+    {
+      "description": "Commented on \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Saved \"Tech: New Smartphone Released\""
+    },
+    {
+      "description": "Reviewed \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Shared \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Liked \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Liked \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Commented on \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Shared \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Shared \"Health: AI Advances in Healthcare\""
+    },
+    {
+      "description": "Commented on \"Science: New Discovery in Space\""
+    },
+    {
+      "description": "Reviewed \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Shared \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Liked \"Health: AI Advances in Healthcare\""
+    },
+    {
+      "description": "Saved \"Business: Company Reports Record Profits\""
+    },
+    {
+      "description": "Saved \"Tech: New Smartphone Released\""
+    },
+    {
+      "description": "Commented on \"Tech: New Smartphone Released\""
+    },
+    {
+      "description": "Commented on \"Health: AI Advances in Healthcare\""
+    },
+    {
+      "description": "Reviewed \"Tech: New Smartphone Released\""
+    },
+    {
+      "description": "Saved \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Commented on \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Shared \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Shared \"Science: New Discovery in Space\""
+    },
+    {
+      "description": "Shared \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Commented on \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Saved \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Commented on \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Liked \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Reviewed \"Health: AI Advances in Healthcare\""
+    },
+    {
+      "description": "Liked \"Business: Company Reports Record Profits\""
+    },
+    {
+      "description": "Commented on \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Commented on \"Health: AI Advances in Healthcare\""
+    },
+    {
+      "description": "Liked \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Liked \"Business: Company Reports Record Profits\""
+    },
+    {
+      "description": "Saved \"Politics: Election Results Announced\""
+    },
+    {
+      "description": "Liked \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Reviewed \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Shared \"Science: New Discovery in Space\""
+    },
+    {
+      "description": "Reviewed \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Saved \"Science: New Discovery in Space\""
+    },
+    {
+      "description": "Shared \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Liked \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Commented on \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Saved \"Tech: New Smartphone Released\""
+    },
+    {
+      "description": "Liked \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Commented on \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Reviewed \"Health: AI Advances in Healthcare\""
+    },
+    {
+      "description": "Commented on \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Saved \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Shared \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Shared \"Business: Company Reports Record Profits\""
+    },
+    {
+      "description": "Reviewed \"Breaking News: Market Crash\""
+    },
+    {
+      "description": "Saved \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Commented on \"Tech: New Smartphone Released\""
+    },
+    {
+      "description": "Saved \"Entertainment: Movie Breaks Box Office Records\""
+    },
+    {
+      "description": "Commented on \"Travel: Top Destinations for 2024\""
+    },
+    {
+      "description": "Commented on \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Reviewed \"Politics: Election Results Announced\""
+    },
+    {
+      "description": "Commented on \"Sports: Local Team Wins Championship\""
+    },
+    {
+      "description": "Reviewed \"Weather Update: Storm Approaching\""
+    },
+    {
+      "description": "Reviewed \"Politics: Election Results Announced\""
+    },
+    {
+      "description": "Reviewed \"Sports: Local Team Wins Championship\""
     }
   ]
 }

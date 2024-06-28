@@ -1,41 +1,44 @@
-import fs from "fs";
+import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
+import { titles, contents, authors } from "./textBank.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const dataFilePath = path.resolve(__dirname, "mockData.json");
+
 let cache = null;
 
-const loadData = () => {
+const loadData = async () => {
   if (!cache) {
-    cache = JSON.parse(fs.readFileSync(dataFilePath, "utf8"));
+    const data = await fs.readFile(dataFilePath, "utf8");
+    cache = JSON.parse(data);
   }
   return cache;
 };
 
-const saveData = (data) => {
-  fs.writeFileSync(dataFilePath, JSON.stringify(data, null, 2));
+const saveData = async (data) => {
+  await fs.writeFile(dataFilePath, JSON.stringify(data, null, 2));
   cache = data; // Update cache
 };
 
 const getRandomItem = (arr) => arr[Math.floor(Math.random() * arr.length)];
 
-const createNewsArticle = () => {
-  const data = loadData();
+const createNewsArticle = async () => {
+  const data = await loadData();
   const newId = data.newsArticles.length + 1;
   return {
     id: newId,
-    title: getRandomItem(data.titles),
-    content: "This is a dynamically generated news article.",
-    author: "Random Author",
+    title: getRandomItem(titles),
+    content: getRandomItem(contents),
+    author: getRandomItem(authors),
     date: new Date().toLocaleDateString(),
   };
 };
 
-const createUserActivity = () => {
-  const data = loadData();
+const createUserActivity = async () => {
+  const data = await loadData();
   const action = getRandomItem(["Commented on", "Liked", "Shared", "Reviewed", "Saved"]);
   const title = getRandomItem(data.newsArticles).title;
   return {
@@ -43,12 +46,12 @@ const createUserActivity = () => {
   };
 };
 
-const addNewData = () => {
+const addNewData = async () => {
   console.log("--- Starting data update process ---");
-  const data = loadData();
+  const data = await loadData();
 
   console.log("Step 1: Creating a new news article");
-  const newArticle = createNewsArticle();
+  const newArticle = await createNewsArticle();
   console.log("New article created:", newArticle);
 
   console.log("Step 2: Adding new article to newsArticles array");
@@ -69,16 +72,16 @@ const addNewData = () => {
   console.log(`Updated ${randomCategory} categoryArticles:`, data.categoryArticles[randomCategory]);
 
   console.log("Step 5: Creating a new user activity");
-  const newUserActivity = createUserActivity();
+  const newUserActivity = await createUserActivity();
   data.userActivity.push(newUserActivity);
   console.log("New user activity created:", newUserActivity);
   console.log("Updated userActivity:", data.userActivity);
 
   console.log("Step 6: Saving updated mock data to file");
-  saveData(data);
+  await saveData(data);
   console.log("Mock data saved successfully");
 
   console.log("--- Data update process completed ---");
 };
 
-export { loadData, getRandomItem, createNewsArticle, addNewData };
+export { getRandomItem, createNewsArticle, addNewData };
