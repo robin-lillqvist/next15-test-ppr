@@ -1,0 +1,6 @@
+.articleContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5em; /* Adjust the gap as needed */
+  padding: 2rem; /* Optional padding around the container */
+}

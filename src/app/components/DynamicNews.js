@@ -2,6 +2,7 @@
 import React from "react";
 import { useEffect, useState } from "react";
 import ArticleCard from "./ArticleCard";
+import ArticleContainer from "./ArticleContainer";
 
 export default function DynamicNews() {
   const [news, setNews] = useState([]);
@@ -15,17 +16,17 @@ export default function DynamicNews() {
   if (news.length === 0) return <div>Loading...</div>;
 
   return (
-    <div>
+    <ArticleContainer>
       {news.map((article) => (
         <ArticleCard
           key={article.id}
           title={article.title}
           content={article.content.substring(0, 100) + "..."}
-          image='/path/to/default/image.jpg' // Replace with your image logic
-          date='June 24, 2024' // Replace with your date logic
+          image={article.image} // Replace with your image logic
+          date={article.date} // Replace with your date logic
           id={article.id}
         />
       ))}
-    </div>
+    </ArticleContainer>
   );
 }

@@ -1,18 +1,23 @@
-/* app/components/ArticleCard.module.css */
 .card {
   display: flex;
   flex-direction: column;
   background-color: #000;
-  border: 1px solid #a0a0a0;
+  border: 1px solid #232323;
   border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.5);
   overflow: hidden;
   transition: box-shadow 0.3s ease-in-out;
-  margin: 10px 20px;
+
+  background: #fff; /* Background color */
+  border: 1px solid #ddd; /* Border color */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  padding: 16px; /* Padding inside the card */
+  box-sizing: border-box; /* Ensure padding and border are included in the width */
 }
 
 .card:hover {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.7);
 }
 
 .image {
@@ -28,17 +33,27 @@
 .title {
   font-size: 1.5em;
   margin: 0;
-  color: #333;
+  color: #dadada;
 }
 
 .date {
   font-size: 0.9em;
-  color: #777;
+  color: #cdcdcd;
   margin: 8px 0;
 }
 
 .text {
   font-size: 1em;
-  color: #555;
+  color: #d0d0d0;
   line-height: 1.6;
+}
+
+.card h2 {
+  margin-top: 0; /* Remove default margin from top of the heading */
+  font-size: 1.5em; /* Heading font size */
+}
+
+.card p {
+  margin-bottom: 0; /* Remove default margin from bottom of paragraph */
+  color: #555; /* Paragraph text color */
 }

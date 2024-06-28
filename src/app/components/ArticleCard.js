@@ -10,10 +10,10 @@ export default function ArticleCard({ title, content, image, date, id }) {
         <h2 className={styles.title}>{title}</h2>
         <p className={styles.date}>{date}</p>
         <p className={styles.text}>{content}</p>
-        <a href={`/news/${id}`} className={styles.link}>
-          read more...
-        </a>
       </div>
+      <a href={`/news/${id}`} className={styles.link}>
+        read more...
+      </a>
     </div>
   );
 }
